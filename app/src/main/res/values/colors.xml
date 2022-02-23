@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3184D4</color>
+    <color name="colorPrimaryDark">#3184D4</color>
+    <color name="colorAccent">#6F9AA1</color>
+    <color name="colorWindowBackground">#FAFAFA</color>
+    <color name="white">@android:color/white</color>
+    <color name="blue">#3184D4</color>
+    <color name="textColorPrimary">#1A1A1A</color>
+    <color name="textColorItemName">#1A1A1A</color>
+    <color name="textColorItemHint">#999999</color>
+    <color name="textColorAnniHint">#333333</color>
+    <color name="textColorStress">#2222AA</color>
+    <color name="colorSplitLine">#e0e0e0</color>
+
+    <color name="colorItemBackground">#FFFFFF</color>
+    <color name="colorRecyclerView">#FAFAFA</color>
+</resources>
